@@ -13,7 +13,7 @@ if not os.path.exists("html_files"):
 access_point = ("https://etherscan.io/gastracker")
 
 
-#get this from lecture code on github
+#lecture code on github
 headers = {
   'accept': '*/*',
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53',
